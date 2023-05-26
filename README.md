@@ -4,7 +4,7 @@ This project uses Python, Pandas, and Python dictionary methods to build an ETL 
 
 ### Info / Credits
 
-- Analysis and Final Analysis Report by 
+- Project by: 
     * `Jenna Barkley` 
     * `Katie Djahan` 
 
